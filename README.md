@@ -11,6 +11,9 @@ In a native app, you'd expect the content to rubber band but in Safari the whole
 
 ScrollFix works around this by manually offsetting the `scrollTop` value to one away from the limit at either extreme, which causes the browser to use rubber banding rather than passing the event up the DOM tree.
 
+
+<a href="http://vulpes.agency:7021/ios-scrollfix/">Open this DEMO in your IOS browser</a>
+
 # How to use
 
 Setup a scrollable section:
