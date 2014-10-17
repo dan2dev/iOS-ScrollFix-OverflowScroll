@@ -1,6 +1,6 @@
 # ScrollFix
 
-ScrollFix is a small script that *partially* works around the most common issue with using iOS5's `overflow: scroll` for fullscreen web apps.
+ScrollFix is a small script that *partially* works around the most common issue with using iOS 5, 6, 7 and 8 `overflow: scroll` for fullscreen web apps.
 
 The newly support `overflow:scroll` is a great addition and works well except under the following conditions:
 
