@@ -29,11 +29,6 @@ Setup a scrollable section:
 		</ul>
 	</div>
 
-Then call the following code on the area that has the `overflow: scroll` property:
-
-	var scrollable = document.getElementById("scrollable");
-	new ScrollFix(scrollable);
-	
 # Known Issues
 
 ScrollFix doesn't prevent the page from being scrolled when if a touch is registered whilst the scrolling section is bouncing (rubber banding). This is an issue I don't think can be worked around with the current implementation of iOS5's `overflow: scroll`.
