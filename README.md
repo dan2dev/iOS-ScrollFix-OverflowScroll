@@ -15,7 +15,7 @@ ScrollFix works around this by manually offsetting the `scrollTop` value to one 
 
 Setup a scrollable section:
 
-	<div class="scrollable" id="scrollable">
+	<div class="scroll">
 		<ul>
 			<li>List Item</li>
 			<li>List Item</li>
