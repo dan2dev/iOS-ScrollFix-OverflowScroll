@@ -35,7 +35,7 @@ Then call the following code on the area that has the `overflow: scroll` propert
 
 ScrollFix doesn't prevent the page from being scrolled when if a touch is registered whilst the scrolling section is bouncing (rubber banding). This is an issue I don't think can be worked around with the current implementation of iOS5's `overflow: scroll`.
 
-[This ticket](https://github.com/joelambert/ScrollFix/issues/1#issuecomment-2421225) better explains the issue, Apple are aware of the problem (thanks to [Matteo Spinelli](http://www.twitter.com/cubiq)), hopefully this will be resolved in iOS 5.1.
+[This ticket](https://github.com/joelambert/ScrollFix/issues/1#issuecomment-2421225) better explains the issue, Apple are aware of the problem (thanks to [Matteo Spinelli](http://www.twitter.com/cubiq))
 
 # License
 
